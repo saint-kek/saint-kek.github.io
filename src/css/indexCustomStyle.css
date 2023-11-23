@@ -1,0 +1,23 @@
+body {
+    background-color: #4F4D4C;
+    text-align: center;
+}
+
+h1 {
+    font-size: xxx-large;
+    font-family: "Arial", sans-serif;
+    color: mediumseagreen;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #426C62;
+    text-shadow: 2px 2px 7px #50B59C;
+
+}
+
+p {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: darkgray;
+    font-size: large;
+    font-family: "Arial", sans-serif;
+    color: antiquewhite;
+    font-weight: bold;
+}

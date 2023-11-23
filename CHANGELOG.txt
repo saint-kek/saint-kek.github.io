@@ -1,0 +1,7 @@
+[v0.0.2]
+* Merged existing project with HTML5 Boilerplate
+* Created custom stylesheet for index.html
+* Added icon and favicon
+
+[v0.0.1]
+* Index.html created and domain routed
